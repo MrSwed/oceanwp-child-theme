@@ -1,0 +1,9 @@
+[submodule "scss/mixins/font-face"]
+	path = scss/mixins/font-face
+	url = https://gist.github.com/MrSwed/39dc6a936068a76b2181227b8dab4651
+[submodule "scss/mixins/sprite"]
+	path = scss/mixins/sprite
+	url = https://gist.github.com/MrSwed/9b74275a7c5fa82c78619f2b7b9bd4ba
+[submodule "scss/mixins/calcSize"]
+	path = scss/mixins/calcSize
+	url = https://gist.github.com/MrSwed/958077f384bfeb62cc799b0946999590

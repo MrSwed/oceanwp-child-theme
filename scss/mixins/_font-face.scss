@@ -1,0 +1,11 @@
+@import "font-face/mixins";
+
+/* examples * /
+@include font-face("Myriad Pro","fonts/MyriadPro-Regular");
+@include font-face("Myriad Pro","fonts/MyriadPro-Italic","normal","italic");
+
+
+%f.myriad {
+	font-family: "Myriad Pro", "Helvetica Neue", Arial, Helvetica, "Nimbus Sans L", sans-serif;
+}
+/**/
