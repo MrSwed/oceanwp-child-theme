@@ -1,11 +1,19 @@
-/*
-Theme Name: OceanWP Child
-Theme URI: https://oceanwp.org/
-Description: OceanWP WordPress theme example child theme.
-Author: Nick
-Author URI: https://oceanwp.org/
-Template: oceanwp
-Version: 1.0
-*/
 
-/* Parent stylesheet should be loaded from functions.php not using @import */
+/*   
+Theme Name: oceanwp-SD
+Theme URI: https://github.com/MrSwed/oceanwp-child-theme
+Description: Custom OceanWP. MrSwed.
+Author: Sergey Davydov
+Author URI: https://github.com/MrSwed/
+Template: oceanwp
+Version: 0.1
+.
+ *
+ * License: GNU General Public License v3.0 or later
+ * License URI: https://www.gnu.org/licenses/gpl-3.0.html
+ * Fork from https://github.com/oceanwp/oceanwp-child-theme
+ * 
+ * 
+
+.
+/* Parent stylesheet should be loaded from functions.php not using @import */*/
