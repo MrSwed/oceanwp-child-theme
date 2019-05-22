@@ -28,3 +28,14 @@ function oceanwp_child_enqueue_parent_style() {
 	
 }
 add_action( 'wp_enqueue_scripts', 'oceanwp_child_enqueue_parent_style' );
+
+
+/**
+ * Change the Continue Reading text
+	* 
+	* @link https://docs.oceanwp.org/article/469-change-the-continue-reading-text
+ */
+function myprefix_post_readmore_link_text() {
+	return 'Читать далее';
+}
+add_filter( 'ocean_post_readmore_link_text', 'myprefix_post_readmore_link_text' );
